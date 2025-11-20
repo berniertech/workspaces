@@ -1,5 +1,5 @@
 # Automated Shared Drive Backup & Activity Monitor  
-Google Workspace Automation (Apps Script)
+Google Workspace Automation (Apps Script) 
 
 ## Overview
 The **Automated Shared Drive Backup & Activity Monitor** is a lightweight solution built on **Google Workspace** using **Apps Script**.  
